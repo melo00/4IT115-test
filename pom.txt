@@ -5,6 +5,7 @@
 	<groupId>https://github.com/melo00/.git</groupId>
 	<artifactId>test_case</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<name>test_case</name>
 	<dependencies>
 		<dependency>
 			<groupId> https://github.com/melo00/.git </groupId>
