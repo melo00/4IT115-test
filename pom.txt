@@ -4,6 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>https://github.com/melo00/.git</groupId>
 	<artifactId>test_case</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
 	<dependencies>
 		<dependency>
 			<groupId> https://github.com/melo00/.git </groupId>
